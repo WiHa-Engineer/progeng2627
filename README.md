@@ -12,3 +12,6 @@ Functions: Passing by copy and Passing by reference; Early return
 
 ## Week 5
 Vectors: syntax, using vectors with functions (input and output)
+
+## Week 6 
+Text Files: inputs and outputs; exercises with vectors and text files
